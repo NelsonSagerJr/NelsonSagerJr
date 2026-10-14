@@ -16,7 +16,7 @@ jobs:
           user: NelsonSagerJr
           template: classic
           config_timezone: America/Sao_Paulo
-          config_display: columns
+          config_display: large
           filename: metrics.svg
           base: header, repositories, metadata
           repositories_forks: no
